@@ -1,0 +1,13 @@
+﻿  BalserCamera.cpp
+d:\packages\opencv3_1\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\packages\opencv3_1\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\packages\opencv3_1\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\packages\opencv3_1\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\projects\win32\360camera\camera\camera\camera.h(55): warning C4251: “scs::Camera::Parameter::intrinsic”: class“cv::Mat”需要有 dll 接口由 class“scs::Camera::Parameter”的客户端使用
+  d:\packages\opencv3_1\opencv\build\include\opencv2\core\mat.hpp(741): note: 参见“cv::Mat”的声明
+d:\projects\win32\360camera\camera\camera\camera.h(55): warning C4251: “scs::Camera::Parameter::distortion”: class“cv::Mat”需要有 dll 接口由 class“scs::Camera::Parameter”的客户端使用
+  d:\packages\opencv3_1\opencv\build\include\opencv2\core\mat.hpp(741): note: 参见“cv::Mat”的声明
+d:\projects\win32\360camera\camera\camera\camera.h(56): warning C4251: “scs::Camera::Parameter::resolution”: class“cv::Size_<int>”需要有 dll 接口由 class“scs::Camera::Parameter”的客户端使用
+  d:\packages\opencv3_1\opencv\build\include\opencv2\core\types.hpp(305): note: 参见“cv::Size_<int>”的声明
+  Camera.vcxproj -> D:\Projects\Win32\360Camera\x64\Debug\Camerad.exe
+  Camera.vcxproj -> D:\Projects\Win32\360Camera\x64\Debug\Camerad.pdb (Partial PDB)
