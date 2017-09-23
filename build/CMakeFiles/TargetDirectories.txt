@@ -1,3 +1,0 @@
-/media/yarten/LENOVO/Projects/Win32/360Camera/Camera/build/CMakeFiles/edit_cache.dir
-/media/yarten/LENOVO/Projects/Win32/360Camera/Camera/build/CMakeFiles/rebuild_cache.dir
-/media/yarten/LENOVO/Projects/Win32/360Camera/Camera/build/CMakeFiles/BalserCamera.dir
